@@ -1,5 +1,4 @@
-### Hi,there
-I'm Nikhil Kumar Shukla, and i do content on design and development. i reallu enjoy learning language and framework  like React and React native, asa well as work in Wordpress. i also enjoy wireframing, ui, ux, and design in general.
+
 ### Hi there 👋, Nikhil Kumar Shukla
 #### Design and Development
 ![Design and Development](https://tse2.mm.bing.net/th?id=OIP.gReLR6hZjwyBxHmfLN1AVwHaFj&pid=Api&P=0&h=180)
