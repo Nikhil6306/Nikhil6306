@@ -1,14 +1,14 @@
 ### Hi there 👋, Nikhil Kumar Shukla.
 #### Design and Development
-![Design and Development] ![images](https://github.com/user-attachments/assets/8a818efa-d3c6-490a-84fd-f80dc6d74b65)
+![Design and Development] 
+![images](https://github.com/user-attachments/assets/8a818efa-d3c6-490a-84fd-f80dc6d74b65)
 
 I'm Nikhil Kumar Shukla, and i do content on design and development. i really enjoy learning language and framework like React and React native, as well as work in WordPress. i also enjoy wireframing, Ui, UX, and design in general.
 
-Skills: HTML/CSS / JS /  REACT/ Mango DB / SQL / PYTHON DATA / SCIENCE / EXCEL / Graphic Design.
-![images](https://github.com/user-attachments/assets/770a045c-f1a0-493c-bdb1-f361feece2bb)  width:200px; height:400px:
+Skills: HTML/CSS / JS /  REACT/ Mango DB / SQL / PYTHON DATA / SCIENCE / EXCEL / Graphic Design. 
+![images](https://github.com/user-attachments/assets/770a045c-f1a0-493c-bdb1-f361feece2bb)
 
 - 🌱 I’m currently learning Python, Data Science. 
-
 - 🤔 I’m looking for help with Development 
 - 📫 How to reach me: nikhilshukla8787@email.com 
 
