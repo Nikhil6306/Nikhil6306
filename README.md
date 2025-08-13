@@ -1,6 +1,7 @@
 ### Hi there 👋, Nikhil Kumar Shukla.
 #### Design and Development
-![Design and Development] 
+[Design and Development] 
+
 ![images](https://github.com/user-attachments/assets/8a818efa-d3c6-490a-84fd-f80dc6d74b65)
 
 I'm Nikhil Kumar Shukla, and i do content on design and development. i really enjoy learning language and framework like React and React native, as well as work in WordPress. i also enjoy wireframing, Ui, UX, and design in general.
