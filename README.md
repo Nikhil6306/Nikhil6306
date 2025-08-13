@@ -10,8 +10,31 @@ Skills: HTML/CSS / JS /  REACT/ Mango DB / SQL / PYTHON DATA / SCIENCE / EXCEL /
 
 - 🌱 I’m currently learning Python, Data Science. 
 - 🤔 I’m looking for help with Development 
-- 📫 How to reach me: nikhilshukla8787@email.com 
+- 📫 How to reach me: nikhilshukla8787@email.com
 
+🌱 I'm learning:
+- **Frontend:** HTML, CSS, JavaScript, React
+- **Backend:** Node.js, Express
+- **Databases:** MongoDB, MySQL
+- **Tools:** Git, GitHub, VS Code
+
+- 💡 I enjoy solving problems, building projects, and learning new technologies step by step.
+
+📁 I use this GitHub to:
+- Share my learning journey
+- Host personal and practice projects
+- Collaborate on beginner-friendly open source work
+
+
+🚀 What I do:
+- Design and develop full-featured web apps from scratch
+- Build RESTful APIs and connect complex backends with modern frontends
+- Write clean, maintainable, and scalable code
+- Collaborate on open source & team projects
+
+📫 How to reach me: [nikhilshukla8787@gmail.com]  
+🔗 Portfolio (in progress): [yourwebsite.com]  
+🔗 LinkedIn: (https://www.linkedin.com/in/NikhilKumarshukla/)
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/Nikhil6306)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/NikhilKumarshukla/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/nikhilshukla00_/)  
 
