@@ -1,12 +1,12 @@
-### Hi there 👋, Nikhil Kumar Shukla
+### Hi there 👋, Nikhil Kumar Shukla.
 #### Design and Development
 ![Design and Development](https://tse3.mm.bing.net/th?id=OIP.piAMkLAjuBhL3mIPbPgROgHaDm&pid=Api&P=0&h=180)
 
 I'm Nikhil Kumar Shukla, and i do content on design and development. i really enjoy learning language and framework like React and React native, as well as work in WordPress. i also enjoy wireframing, Ui, UX, and design in general.
 
-Skills: HTML/CSS / JS /  REACT/ Mango DB
+Skills: HTML/CSS / JS /  REACT/ Mango DB / SQL / PYTHON DATA / SCIENCE / EXCEL / Graphic Design.
 
-- 🌱 I’m currently learning java script, React 
+- 🌱 I’m currently learning Python, Data Science. 
 - 🤔 I’m looking for help with Development 
 - 📫 How to reach me: nikhilshukla8787@email.com 
 
