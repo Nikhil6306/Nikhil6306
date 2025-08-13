@@ -1,6 +1,5 @@
 ### Hi there 👋, Nikhil Kumar Shukla.
-#### Design and Development
-[Design and Development] 
+#### Design and Development 
 
 ![images](https://github.com/user-attachments/assets/8a818efa-d3c6-490a-84fd-f80dc6d74b65)
 
