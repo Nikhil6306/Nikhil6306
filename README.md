@@ -1,50 +1,35 @@
-### Hi there 👋, Nikhil Kumar Shukla.
-#### Design and Development 
+<h1 align="center">Hi 👋, I'm Nikhil Kumar Shukla</h1>
+<h3 align="center">A passionate Full stack web developer and Python developer.</h3>
 
-![images](https://github.com/user-attachments/assets/8a818efa-d3c6-490a-84fd-f80dc6d74b65)
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=nikhil6306&label=Profile%20views&color=0e75b6&style=flat" alt="nikhil6306" /> </p>
 
-I'm Nikhil Kumar Shukla, and i do content on design and development. i really enjoy learning language and framework like React and React native, as well as work in WordPress. i also enjoy wireframing, Ui, UX, and design in general.
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=nikhil6306" alt="nikhil6306" /></a> </p>
 
-Skills: HTML/CSS / JS /  REACT/ Mango DB / SQL / PYTHON DATA / SCIENCE / EXCEL / Graphic Design. 
-![images](https://github.com/user-attachments/assets/770a045c-f1a0-493c-bdb1-f361feece2bb)
+- 🔭 I’m currently working on **Adobe Photoshop**
 
-- 🌱 I’m currently learning Python, Data Science. 
-- 🤔 I’m looking for help with Development 
-- 📫 How to reach me: nikhilshukla8787@email.com
+- 🌱 I’m currently learning **javascript, React, Python, DBMS.**
 
-🌱 I'm learning:
-- **Frontend:** HTML, CSS, JavaScript, React
-- **Backend:** Node.js, Express
-- **Databases:** MongoDB, MySQL
-- **Tools:** Git, GitHub, VS Code
+- 🤝 I’m looking for help with [Favuni Global Pvt Ltd.](https://share.google/r4Ph7YJjW5ViH8ajY)
 
-- 💡 I enjoy solving problems, building projects, and learning new technologies step by step.
+- 📫 How to reach me **nikhilshukla8787@gmail.com**
 
-📁 I use this GitHub to:
-- Share my learning journey
-- Host personal and practice projects
-- Collaborate on beginner-friendly open source work
+- ⚡ Fun fact **I think i am funny**
 
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/nikhil-kumar-shukla" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="nikhil-kumar-shukla" height="30" width="40" /></a>
+<a href="https://fb.com/nikhil shukla" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="nikhil shukla" height="30" width="40" /></a>
+<a href="https://instagram.com/nikhilshukla00_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="nikhilshukla00_" height="30" width="40" /></a>
+<a href="https://www.behance.net/nikhilshukla21" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/behance.svg" alt="nikhilshukla21" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/nikhilshukla1200" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="nikhilshukla1200" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/https://leetcode.com/u/nikhil6306/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/u/nikhil6306/" height="30" width="40" /></a>
+</p>
 
-🚀 What I do:
-- Design and develop full-featured web apps from scratch
-- Build RESTful APIs and connect complex backends with modern frontends
-- Write clean, maintainable, and scalable code
-- Collaborate on open source & team projects
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> </a> <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> </p>
 
-📫 How to reach me: [nikhilshukla8787@gmail.com]  
-🔗 Portfolio (in progress): [yourwebsite.com]  
-🔗 LinkedIn: (https://www.linkedin.com/in/NikhilKumarshukla/)
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=nikhil6306&show_icons=true&locale=en&layout=compact" alt="nikhil6306" /></p>
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/Nikhil6306)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/NikhilKumarshukla/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/nikhilshukla00_/)  
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=nikhil6306&show_icons=true&locale=en" alt="nikhil6306" /></p>
 
-<a href='https://archiveprogram.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/acbadge.gif' width='40' height='40'></a> <a href='https://docs.github.com/en/developers'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/devbadge.gif' width='40' height='40'></a> <a href='https://github.com/pricing'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/pro.gif' width='40' height='40'></a> <a href='https://stars.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/starbadge.gif' width='35' height='35'></a> <a href='https://docs.github.com/en/github/supporting-the-open-source-community-with-github-sponsors'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/sponsorbadge.gif' width='35' height='35'></a> 
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Nikhil6306)](https://github.com/anuraghazra/github-readme-stats)
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=Nikhil6306&show_icons=true&count_private=true)  
-
-![Vaunt Badge](https://api.vaunt.dev/v1/github/entities/Nikhil6306/contributions?format=svg&private=true)  
-
-
-
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=nikhil6306&" alt="nikhil6306" /></p>
