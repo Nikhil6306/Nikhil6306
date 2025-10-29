@@ -1,3 +1,9 @@
+<h1 align="center">Hi 👋, I'm Nikhil Kumar Shukla</h1>
+<h3 align="center">A passionate Full stack web developer and Python developer.</h3>
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=nikhil6306&label=Profile%20views&color=0e75b6&style=flat" alt="nikhil6306" /> </p>
+
+
 # 💫 About Me:
 I'm currently working on Favuni Global PVT LTD.<br>I Am looking for help with Web development.<br>I'm currently learning on  Python, Adobe software, JavaScript.<br>"Hello, my name is Nikhil Kumar Shukla, and I graduated from CSJM University. I've always had a fascination with computers since I was a child, and my fascination with computers led me to want to learn new programming languages. I am well-versed in Python programming, Java-Script, data structures, and SQL.<br>Along with these technical skills, I have strong communication skills that I believe are essential for this position.<br>i think i am funny.
 
