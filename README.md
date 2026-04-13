@@ -31,6 +31,7 @@ I'm currently working on Favuni Global PVT LTD.<br>I Am looking for help with We
 [![](https://visitcount.itsvg.in/api?id=Nikhil6306&icon=0&color=0)](https://visitcount.itsvg.in)
 
 
+<img src="https://raw.githubusercontent.com/Nikhil6306/Nikhil6306/main/dist/pacman.svg">
 
 <br clear="both">
 
