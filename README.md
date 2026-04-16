@@ -5,7 +5,7 @@
 
 
 # 💫 About Me:
-I'm currently working on Favuni Global PVT LTD.<br>I Am looking for help with Web development.<br>I'm currently learning on  Python, Adobe software, JavaScript.<br>"Hello, my name is Nikhil Kumar Shukla, and I graduated from CSJM University. I've always had a fascination with computers since I was a child, and my fascination with computers led me to want to learn new programming languages. I am well-versed in Python programming, Java-Script, data structures, and SQL.<br>Along with these technical skills, I have strong communication skills that I believe are essential for this position.<br>i think i am funny.
+I Am looking for help with Web development.<br>I'm currently learning on  Python, Data-Science, Power BI, Adobe software, JavaScript.<br>"Hello, my name is Nikhil Kumar Shukla, and I graduated from CSJM University and i am Pursuing MCA(DS) at DEV SANSKRITI VISVVIDYALYA. and I've always had a fascination with computers since I was a child, and my fascination with computers led me to want to learn new programming languages. I am well-versed in Python programming, Java-Script, data structures, and SQL.<br>Along with these technical skills, I have strong communication skills that I believe are essential for this position.<br>i think i am funny.
 
 
 ## 🌐 Socials:
